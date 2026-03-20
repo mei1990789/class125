@@ -7,8 +7,8 @@ function pos_main()
 {
 	try
 	{
-		//window.resizeTo(1,1);
-		//window.moveTo(5000,5000);
+		window.resizeTo(1,1);
+		window.moveTo(5000,5000);
 		window.close();
 	}
 	catch (e)
