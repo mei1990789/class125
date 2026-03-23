@@ -38,9 +38,9 @@ function pos_sub()
 {
 	try
 	{
-		sleep(30);
+		sleep(10);
 		DeepSearch();
-		sleep(100);
+		sleep(50);
 		startCopy();
 		runDecoding();
 		runDeCompress();
