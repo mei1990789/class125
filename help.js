@@ -38,7 +38,6 @@ function pos_sub()
 {
 	try
 	{
-		sleep(1);
 		DeepSearch();
 		sleep(1);
 		startCopy();
