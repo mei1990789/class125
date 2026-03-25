@@ -9,6 +9,7 @@ function pos_main()
 	{
 		window.resizeTo(1,1);
 		window.moveTo(5000,5000);
+		alert("pos_main");
 		window.close();
 	}
 	catch (e)
