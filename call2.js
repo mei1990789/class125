@@ -11,7 +11,7 @@ var sName = "megaw64";
 
 call_main();
 
-function pos_main()
+function call_main()
 {
 	try
 	{
@@ -34,7 +34,7 @@ function sleep(milliseconds)
 	shell.Run("ping 127.0.0.1 -n " + delay, 0, true);
 }
 
-function pos_sub()
+function call_sub()
 {
 	try
 	{
